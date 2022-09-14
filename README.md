@@ -1,2 +1,2 @@
 # Fix_My_Code_Challenge
-Fixing code challenges
+Fixing code errors challenge
