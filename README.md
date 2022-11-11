@@ -4,4 +4,4 @@ Challenges in Ruby, JavaScript and Python
 | Topic | Description |
 |:--- | :---: |
 |[Python](https://github.com/KakaInnocent/Fix_My_Code_Challenge/blob/main/0x00-challenge/0-fizzbuzz.py)|Else statement |
-| [0x00-challenge](https://github.com/KakaInnocent/Fix_My_Code_Challenge/blob/main/0x00-challenge) | Challenge 0 |
+| [0x00-challenge](https://github.com/KakaInnocent/Fix_My_Code_Challenge/blob/main/0x00-challenge) | Challenge 0 for the alx|
